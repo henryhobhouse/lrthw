@@ -1,1 +1,2 @@
-Learning to code the hard way excersises
+Learn to code the hard way exercises
+
