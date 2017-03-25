@@ -1,4 +1,4 @@
-user_name, real = ARGV # gets the first argument
+user_name, real = ARGV
 prompt = '::---> '
 
 puts "Hi #{user_name}."
