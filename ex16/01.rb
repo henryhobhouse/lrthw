@@ -30,12 +30,7 @@ line3 = $stdin.gets.chomp
 puts "I'm going to write thiese to the file."
 
 # writes user inputs to the file
-target.write(line1)
-target.write("\n")
-target.write(line2)
-target.write("\n")
-target.write(line3)
-target.write("\n")
+target.write(line1 + "\n" + line2 + "\n" +line3 + "\n")
 
 # closes the file
 puts "And finally, we close it."
